@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nithish
-- 👀 I’m interested in CyberSecurity, Data Science, Cloud Computing, Ethical Hacking and more ...
-- 🌱 I’m currently learning Data Science, Coding in C/C++ ...
+- 👀 I’m interested in CyberSecurity
 - 📫 How to reach me : nithishvasanth@gmail.com
 
 <!---
